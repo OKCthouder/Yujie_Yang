@@ -1,12 +1,12 @@
 # Site settings
-name: Less Or More
+name: Yujie_Yang'S BLOG
 email: 615851120@qq.com
 author: Yujie_Yang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+url: https://okcthouder.github.io/Yujie_Yang.github.io/index.html
+resume_site: https://okcthouder.github.io/Yujie_Yang.github.io/
 github: https://github.com/OKCthouder/
 baseurl: ""
-description: Actually, less is more!
+description: 一枚小小前端程序员。
 meta_description: 杨宇杰;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
