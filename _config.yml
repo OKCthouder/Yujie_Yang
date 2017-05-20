@@ -1,4 +1,6 @@
-# Site settings
+﻿# Site settings
+# encoding: utf-8
+encoding: utf-8
 name: Yujie_Yang's BLOG
 email: 615851120@qq.com
 author: Yujie_Yang
