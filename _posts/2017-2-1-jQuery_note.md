@@ -1,9 +1,9 @@
 ---
 layout: post
 #标题配置
-title:  标题
+title:  jQuery低俗笔记
 #时间配置
-date:   2016-08-27 01:08:00 +0800
+date:   2017-5-10 01:08:00 +0800
 #大类配置
 categories: document
 #小类配置
@@ -139,7 +139,7 @@ $("p").css({fontSize : "30px" , backgroundColor : "#888888"});
 
 
 
-## #8)
+## 8)
 
 show()方法和hide()方法会同时修改元素的多个样式属性，即高度、宽度和不透明度；fadeOut()和fadeIn()方法智慧修改元素的不透明度；slideDown()方法和slideUp()方法智慧改变元素的高度。
 
