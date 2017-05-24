@@ -1,30 +1,3 @@
-encoding: utf-8
-
-```
----
-layout: post
-#标题配置
-title:  [jQuery读书笔记]
-#时间配置
-date:   2017年5月20日09:38:22
-#大类配置
-categories: document
-#小类配置
-tag: 读书笔记
----
-```
-
-
-
-```
-* content
-{:toc}
-```
-
-
-
-
-
 
 
 本人最近在学习jQuery，在学的过程中顺便做一下读书笔记，在这里跟大家分享一下。**
@@ -40,8 +13,6 @@ $("form input")返回form中的所有input标签对象
 $("#form1:input")表示id为#form1的input
 
 form input 是属于层级选择器(将每一个选择器匹配到的元素合并后一起返回)
-
-form :input是属于表单选择器(匹配所有<input>、<textarea>、<select>、<button>元素
 
 
 
