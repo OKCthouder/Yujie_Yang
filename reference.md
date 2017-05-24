@@ -12,7 +12,7 @@ permalink: /reference/
 
 # 林德熙
 
-> http://lindexi.oschina.io/lindexi/
+http://lindexi.oschina.io/lindexi/
 
 
 
