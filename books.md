@@ -8,17 +8,19 @@ permalink: /books/
 {:toc}
 
 
-2016书单
+
+2017书单
 -----------------------------------------------------------------
 
-+ 《Think in java 4th》
-+ 《鸟哥的Linux私房菜基础学习篇-第三版》
-+ 《重构》
-+ 《Getting real》
-+ 《深入JVM虚拟机》
-+ 《Head first设计模式》
-+ 《算法(第四版)》
-+ 《Maven实战》
++ 《锋利的jQuery》
++ 《JavaScript高级程序设计》
++ 《Div+CSS3+jQuery网页布局案例精粹》
++ 《CSS设计指南》
++ 《21天学通JavaScript》
++ 《JavaScript DOM编程艺术》
++ 《JavaScript设计模式》
++ 《Web前端开发最佳实践》
 + 《HTTP协议详解》
 + 《TCP/IP协议详解-卷一》
-+ 《阿弥陀佛么么哒》
++ 《深入浅出JAVASCRIPT 中文版》
++ 《用AngularJS开发下一代Web应用》
