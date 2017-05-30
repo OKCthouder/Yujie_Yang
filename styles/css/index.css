@@ -7122,3 +7122,26 @@ td.visible-print {
     padding-top: 70px;
     margin-top: -70px;
 }
+
+p#goToTop {
+  position:fixed;
+  bottom:15px;
+  right:15px;
+  z-index: 99;
+}
+p#goToTop a {
+  text-align:center;
+  text-decoration:none;
+  display:block;
+  width:36px;
+  z-index: 99;
+}
+p#goToTop a span {
+  background: url("../images/goToTop.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+  display:block;
+  height: 96px;
+  width: 36px;
+}
+#goToTop a:hover span {
+  background-position: right top;
+}
