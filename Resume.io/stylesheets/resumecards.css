@@ -2870,7 +2870,7 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
 
 .navbar-default {
     background-color: #f8f8f8;
-    border-color: #e7e7e7;
+    border-color: #02021C;
 }
 
 .navbar-default .navbar-brand {
@@ -3848,7 +3848,8 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
 ———————————–———————————–*/
 /*++ Base Tags +++++++++++++++++++++++*/
 body {
-    background-image: url("../pic/296565.jpg");
+    background-image: url("../pic/timg.jpg") ;
+    background-position:center;
     color: black;
 }
 
@@ -4104,7 +4105,7 @@ a:hover {
 
 /* Navbar */
 .navbar-default {
-    background-color: #FFF;
+    background-color: #02021C;
 }
 
 .navbar {
