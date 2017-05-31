@@ -41,8 +41,8 @@
       <file leaf-file-name="resumecards.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resume.io/stylesheets/resumecards.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="214" column="44" lean-forward="false" selection-start-line="214" selection-start-column="44" selection-end-line="214" selection-end-column="44" />
+            <state relative-caret-position="585">
+              <caret line="3856" column="17" lean-forward="true" selection-start-line="3856" selection-start-column="17" selection-end-line="3856" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -335,15 +335,15 @@
       <workItem from="1496070697828" duration="548000" />
       <workItem from="1496071655659" duration="1926000" />
       <workItem from="1496107529450" duration="3378000" />
-      <workItem from="1496224381074" duration="192000" />
+      <workItem from="1496224381074" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6044000" />
+    <option name="totallyTimeSpent" value="6535000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -602,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resume.io/stylesheets/resumecards.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="214" column="44" lean-forward="false" selection-start-line="214" selection-start-column="44" selection-end-line="214" selection-end-column="44" />
+        <state relative-caret-position="585">
+          <caret line="3856" column="17" lean-forward="true" selection-start-line="3856" selection-start-column="17" selection-end-line="3856" selection-end-column="17" />
           <folding />
         </state>
       </provider>
