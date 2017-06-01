@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 #标题配置
-title:  师生管理系统加强版
+title:   师生管理系统加强版
 #时间配置
 date:   2016-04-22 01:08:00 +0800
 #大类配置
-categories: 数据结构
+categories:   数据结构
 #小类配置
 tag: 教程
 ---

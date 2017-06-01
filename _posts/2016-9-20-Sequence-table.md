@@ -1,11 +1,11 @@
 ---
 layout: post
 #标题配置
-title:  C语言实现顺序表的基本操作
+title:   C语言实现顺序表的基本操作
 #时间配置
 date:   2016-09-20 01:08:00 +0800
 #大类配置
-categories: 数据结构
+categories:   数据结构
 #小类配置
 tag: 教程
 ---
