@@ -20,7 +20,7 @@ tag: 教程
 
 Windows 10和Ubuntu Kylin双系统引导成功图：
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7MycvLzLbRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载](C:\Users\Simple_Y\Pictures\Camera Roll\下载.jpg)
 
 ### 1.安装环境
 
@@ -28,7 +28,7 @@ Windows 10和Ubuntu Kylin双系统引导成功图：
 
 ### 2.安装 ubuntu 首先需要准备以下工具以及安装包：
 
-  #### 1、ubuntu 系统安装包
+#### 1、ubuntu 系统安装包
 
 ​       [https://mirrors.tuna.tsinghua.edu.cn/#](https://mirrors.tuna.tsinghua.edu.cn/#)（这个是清华的镜像站点，里面有各种镜像，下载速度也很可观）
 
@@ -46,19 +46,19 @@ Windows 10和Ubuntu Kylin双系统引导成功图：
 
 1、回到桌面，鼠标右键点击开始菜单图标，选择属性，结果如下
 
-![http://img.blog.csdn.net/20170424185733237?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center]()
+![](http://img.blog.csdn.net/20170424185733237?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
  2、进入然后选择[磁盘管理]()，结果如下：
 
-![http://img.blog.csdn.net/20170424185845859?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center]()
+![](http://img.blog.csdn.net/20170424185845859?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 3、选择你认为剩余磁盘空间够大的磁盘，比如 D 盘，右键点击磁盘，选择压缩卷，结果如下：
 
-![http://img.blog.csdn.net/20170424185932850?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center]()
+![](http://img.blog.csdn.net/20170424185932850?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 4、然后就是分区的大小了，个人建议分个 50G 出去最好，然后等待，最终结果如下：压 缩后会发现多出一块未分区磁盘（黑色分区），如果选择的压缩大小是 50G， 则黑色的的应该是 50G 可用空间。
 
-![http://upload-images.jianshu.io/upload_images/671333-774209de6270a208.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240]()
+![](http://upload-images.jianshu.io/upload_images/671333-774209de6270a208.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 好了，[磁盘分区]()到此结束，现在进行第四步。
 
@@ -70,17 +70,17 @@ Windows 10和Ubuntu Kylin双系统引导成功图：
 
 2、进入软碟通，进行如下操作 选择文件，并且打开你下载的 UBUNTU 所在的目录，选择 unbuntu 镜像（改成选择Ubuntu Kylin 镜像即可），选择打开，如图：
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Mr8vOq9GVj5g%3D&restype=3&from=derive&pi=&v=1]()
+![下载1](C:\Users\Simple_Y\Pictures\Camera Roll\下载1.jpg)
 
 3、在[软碟通]()界面菜单栏选择启动，选择写入硬盘映像，如图所示
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7MrsrNzM3RlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载3](C:\Users\Simple_Y\Pictures\Camera Roll\下载3.jpg)
 
 接下来很重要，记住次序：
 
 进入以后界面如下：
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7MrarMzdGVj5g%3D&restype=3&from=derive&pi=&v=1]()
+![下载4](C:\Users\Simple_Y\Pictures\Camera Roll\下载4.jpg)
 
 1、看你的硬盘驱动器是否对应的是你的 U 盘（必须是） ，一般默认是
 
@@ -97,31 +97,31 @@ Windows 10和Ubuntu Kylin双系统引导成功图：
          写在前面，因为个厂商的计算机 BOOT 启动的快捷键不相同，所以 个人觉得要是你无法进入接下来的 BOOT 界面，还是自行百度如何 进入 BOOT 界面，本人华硕笔记本，所以默认快捷键是 F2。 第 6 步非常关键，如果你不想重装系统，你一定要小心
 1、重启系统，在开机刚开始按 F2，之后里面会有如下界面，手机 渣渣，多多包涵，选择 USB HDD，回车确认
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Mq87MzcfRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载5](C:\Users\Simple_Y\Pictures\Camera Roll\下载5.jpg)
 
 2、之后就进入 unbuntu 的安装界面了
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Mxs6xz8zRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载6](C:\Users\Simple_Y\Pictures\Camera Roll\下载6.jpg)
 
 3、或许没有这个界面，但是下面的界面是一定有的
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7LzszLzMvJ0ZWPmA%3D%3D&restype=3&from=derive&pi=&v=1]()
+![下载7](C:\Users\Simple_Y\Pictures\Camera Roll\下载7.jpg)
 
 4、然后选择左边的，往下拉会有中文选择，如图
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Lzsu6y8vRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载8](C:\Users\Simple_Y\Pictures\Camera Roll\下载8.jpg)
 
 5、安装 **unbuntu**
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Lzc%2FPrsvRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载9](C:\Users\Simple_Y\Pictures\Camera Roll\下载9.jpg)
 
 6、选择继续（注意，接下来这一步非常重要，一定小心），得到如下所视界面，如图
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Lzc7NzMrL0ZWPmA%3D%3D&restype=3&from=derive&pi=&v=1]()
+![下载10](C:\Users\Simple_Y\Pictures\Camera Roll\下载10.jpg)
 
 这一步很关键，一定要选择其他选项，切记，然后进入如下界面
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Lzc3LtM7RlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载11](C:\Users\Simple_Y\Pictures\Camera Roll\下载11.jpg)
 
 看到没有，里面会有一个空闲分区，也就是我们之前所创建的那个分区
 
@@ -139,7 +139,7 @@ b.所以分区就像划分磁盘大小一样， 在这里我个人建议如果�
 4）、/boot：这个就是实现你双系统的原因了，这个就是用启动 ubuntu 的目录，里面会有系统的引导，这个文件其实只有几十 兆，但是我们建议将其划分为 200M 文件格式为 ext4，这个分区必不可少，否则后果你懂得！ 好了，这部分分区讲诉完毕，下面就让我们来进行期待已久的分区吧。当然，你可以划分的更详细，具体划分可以百度。
 7、分区 选择空闲分区之后，点击添加，会得到如图界面：
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7LzcvNzafRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![2-150P41142422X](C:\Users\Simple_Y\Pictures\Camera Roll\2-150P41142422X.jpg)
 
 A.首先就是创建根目录，上面提到过，大小 25G 左右，用于 EXT4 文件系统，挂载点有下拉菜单，选择/就好，然后确定，继续选择空闲分区，别看错了，然后添加
 
@@ -151,28 +151,28 @@ D、/HOME 的创建，大小 30G，文件系统 40G，挂载点/HOME,点击确�
 
 然后在安装启动的下拉菜单中找到 sda1，选择它，切记一定是/boot 的编号 如下图
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7LzMvPy7TRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载12](C:\Users\Simple_Y\Pictures\Camera Roll\下载12.jpg)
 
 接下来就选择开始安装了；
 8、选择继续，进入下一步操作，并设置地区为：chongqing，按你需要设置，在下一步操作中选择语言
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7LzMq7yc7RlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载13](C:\Users\Simple_Y\Pictures\Camera Roll\下载13.jpg)
 
 9、键盘布局“默认”，建议选择下面的这个
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Ly8%2Bnz8%2FRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载14](C:\Users\Simple_Y\Pictures\Camera Roll\下载14.jpg)
 
 10、这里设置系统用户，自己设置输入就可以了
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Ly83PnMnRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载15](C:\Users\Simple_Y\Pictures\Camera Roll\下载15.jpg)
 
 11、这个可选可不选，点“继续”
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Ly8zOysrJ0ZWPmA%3D%3D&restype=3&from=derive&pi=&v=1]()
+![下载16](C:\Users\Simple_Y\Pictures\Camera Roll\下载16.jpg)
 
 12． 系统开始安装，可以喝杯咖啡，等安装完毕就可以了（这里应该是欢迎使用Ubuntu Kylin）
 
-![![img](http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Ly8u9zcjRlY%2BY&restype=3&from=derive&pi=&v=1)]()
+![下载17](C:\Users\Simple_Y\Pictures\Camera Roll\下载17.jpg)
 
 当这些全部完成之后，机子会重启。你会发现直接进入你的 win10 系统，因为我们把它的引 导搞到/boot 分区了。我们要用 EasyBCD 来给它创建启动时候的选择系统是 windows 还是 ubuntu 。
 
@@ -180,11 +180,11 @@ D、/HOME 的创建，大小 30G，文件系统 40G，挂载点/HOME,点击确�
 
 接下来就很简单了，在 WIN10 下安装 EasyBCD,之后呢打开如图并且选择添加新条目：
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Ly8qtpdGVj5g%3D&restype=3&from=derive&pi=&v=1]()
+![下载18](C:\Users\Simple_Y\Pictures\Camera Roll\下载18.jpg)
 
 得到如图，选择有企鹅那个，也就是 LINUX/BSD 那个选项，在磁盘驱动器那个下拉菜单选 择以 linux 开头，大小为 200M 左右的那个选项，如图
 
-![http://cdn6.sm-img5.com/?src=l4uLj8XQ0IiIiNGTlpGKh5uWhpnRnJCS0JOWkYqH0IqPk5Cem4zQnpOTlpKY0M7Kz8fPy9DN0s7Kz6%2FLzs7Lys66zMrRlY%2BY&restype=3&from=derive&pi=&v=1]()
+![下载19](C:\Users\Simple_Y\Pictures\Camera Roll\下载19.jpg)
 
 选择完了之后，添加条目，重启电脑，你就会发现你的 UBUNTU 和 WIN10的[双系统]()就安装完成了。到此，ubuntu 安装结束！ 当你不要 ubuntu 的时候，直接在 window 里[磁盘管理]()删了它所在的分区，然后在 Easybcd 里 删了它的引导就行，不影响你的 windows 系统，这就是为啥我不用 ubuntu 来引导 windows 的原因。
 
@@ -192,7 +192,7 @@ D、/HOME 的创建，大小 30G，文件系统 40G，挂载点/HOME,点击确�
 
 然后就可以尽情享受双系统的乐趣了哈哈哈。
 
-![http://upload-images.jianshu.io/upload_images/671333-c221037a9a4731f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240]()
+![671333-c221037a9a4731f5](C:\Users\Simple_Y\Pictures\Camera Roll\671333-c221037a9a4731f5.png)
 
 <center> Ubuntu Kylin桌面</center>
 
