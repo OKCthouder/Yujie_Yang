@@ -14,6 +14,10 @@ tag: 教程
 {:toc}
 
 
+# 注意
+
+如果图片加载不出来请在：http://blog.csdn.net/onlylove_kd/article/details/70544204进行查看
+
 ### 前言
 
          按照本图解教程的方法可以完成Windows 10和Ubuntu Kylin双系统的安装。（有些图片是百度得来的）
@@ -32,13 +36,13 @@ Windows 10和Ubuntu Kylin双系统引导成功图：
 
 ​       [https://mirrors.tuna.tsinghua.edu.cn/#](https://mirrors.tuna.tsinghua.edu.cn/#)（这个是清华的镜像站点，里面有各种镜像，下载速度也很可观）
 
-  #### 2、刻录软件，推荐**[软碟通]()**，会提示注册，选择继续使用
+#### 2、刻录软件，推荐**[软碟通]()**，会提示注册，选择继续使用
 
 ​       下载：在百度搜一大把
 
-  #### 3、一个大于 2G 的 U 盘
+#### 3、一个大于 2G 的 U 盘
 
-  #### 4、EasyBCD 软件，此软件是同来作为系统引导所用
+#### 4、EasyBCD 软件，此软件是同来作为系统引导所用
 
 ​       下载地址：[http://dl.pconline.com.cn/download/90611.html](http://dl.pconline.com.cn/download/90611.html)
 
