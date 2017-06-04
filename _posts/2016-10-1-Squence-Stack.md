@@ -3,7 +3,7 @@ layout: post
 #标题配置
 title:  C语言实行顺序栈的基本操作
 #时间配置
-date:   2016-010-01 01:08:00 +0800
+date:   2016-10-01 01:08:00 +0800
 #大类配置
 categories: 数据结构
 #小类配置
@@ -28,15 +28,15 @@ tag: 教程
 
 ### 实现功能
 
-Status InitStack(SqStack &S);                        //栈的初始化
-Status Push(SqStack &S,Elemtype e);         //入栈
+Status InitStack(SqStack &S);                        //栈的初始化  
+Status Push(SqStack &S,Elemtype e);         //入栈  
 Status Pop(SqStack &S,Elemtype &e);        //弹栈  
-Status GetTop(SqStack S,Elemtype &e);     //取得栈顶元素
+Status GetTop(SqStack S,Elemtype &e);     //取得栈顶元素  
 Status StackEmpty(SqStack S);                    //判空  
 int StackLength(SqStack S);                          //求得栈的长度  
 Status StackTraverse(SqStack S);                 //栈的转置  
 Status ClearStack(SqStack &S);                    //清空栈  
-Status DestroyStack(SqStack &S);               // 栈的销毁
+Status DestroyStack(SqStack &S);               // 栈的销毁  
 
 ### 代码
 
