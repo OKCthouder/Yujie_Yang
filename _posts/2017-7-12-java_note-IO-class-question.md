@@ -16,19 +16,19 @@ tag: 总结
 
 ### 一、Java流式输入输出原理图
 
-![微信图片_20170711085546](C:\Users\Simple_Y\Pictures\微信图片_20170711085546.png)
+![img](http://img.blog.csdn.net/20170712114742456?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
 
 ### 二、流的分类
 
-![微信图片_20170711090132](C:\Users\Simple_Y\Pictures\微信图片_20170711090132.png)
+![img](http://img.blog.csdn.net/20170712114801974?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
 
 ### 三、节点流类型
 
-![微信图片_20170711091350](C:\Users\Simple_Y\Pictures\微信图片_20170711091350.png)
+![img](http://img.blog.csdn.net/20170712114821261?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
 
@@ -67,7 +67,7 @@ public class TestFileOutputStream {
 
         如果只是用FileWriter的话只能每次写入一个字符，而在外面再包装一层BufferedWriter的话一次可以写入一个缓冲区的内容。
 
-![微信图片_20170711095142](C:\Users\Simple_Y\Pictures\微信图片_20170711095142.png)
+![img](http://img.blog.csdn.net/20170712114952059?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
 
@@ -75,5 +75,5 @@ public class TestFileOutputStream {
 
         如果只是用FileWriter的话只能每次写入一个字节，而在外面再包装一层BufferedWriter的话一次可以写入一个字符串的内容。
 
-![微信图片_20170711100838](C:\Users\Simple_Y\Pictures\微信图片_20170711100838.png)
+![img](http://img.blog.csdn.net/20170712115009370?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvT25seUxvdmVfS0Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
