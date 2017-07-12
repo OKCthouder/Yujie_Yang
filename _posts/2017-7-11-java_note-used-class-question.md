@@ -7,7 +7,7 @@ date:   2017-7-11 01:08:00 +0800
 #大类配置
 categories: java
 #小类配置
-tag: 教程
+tag: 总结
 ---
 
 * content
